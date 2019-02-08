@@ -1,2 +1,2 @@
 # CS101
-Class with python
+Homework Assignments from a python course at UMKC. 
