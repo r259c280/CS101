@@ -8,7 +8,7 @@ Some of the things aren't finished or have some errors, and I was too lazy to fi
 
 And always remember....
 
-Beautiful is better than ugly.
+Beautiful is better than ugly.\n
 Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
