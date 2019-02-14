@@ -1,5 +1,4 @@
-# CS101
-Homework Assignments from a python course at UMKC. 
+# Python Basic Fundamentals 
 
 Everything is pretty disorganized, and I'm working on fixing that...
 It is a compilation of exercises, labs, assignments, and some random side projects I've worked on a while ago.
