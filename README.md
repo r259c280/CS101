@@ -9,19 +9,12 @@ Some of the things aren't finished or have some errors, and I was too lazy to fi
 And always remember....
 
 Beautiful is better than ugly.
-
 Explicit is better than implicit.
-
 Simple is better than complex.
-
 Complex is better than complicated.
-
 Flat is better than nested.
-
 Sparse is better than dense.
-
 Readability counts.
-
 Special cases aren't special enough to break the rules.
 
 Although practicality beats purity.
